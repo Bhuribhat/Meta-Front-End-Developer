@@ -21,19 +21,19 @@ The sidebar on the webpage allows you to navigate through the different sections
 
 The layout section of the documentation describes how to use the grid system of Bootstrap. This covers what you've learned so far and includes more advanced usage such as offsets, column alignment, auto-layout and variable width columns.  
 
-<img src="../Images/week3_2.png" width=500>
+<img src="../Images/week3_2.png" width=600>
 
 ## Content
 
 The content section of the documentation describes Bootstrap's default text styling and how to use responsive images and tables. You've learned the basics of these earlier on and this section goes into further detail.  
 
-<img src="../Images/week3_3.png" width=500>
+<img src="../Images/week3_3.png" width=600>
 
 ## Forms
 
 The forms section of the documentation describes how to build forms using Bootstrap's styles. The library has many CSS rules to improve your form's user interface and experience. Below are some features you'll frequently use as a developer:
 
-<img src="../Images/week3_4.png" width=500>
+<img src="../Images/week3_4.png" width=600>
 
 
 ## Form Styling
@@ -136,7 +136,7 @@ As you have learned, Bootstrap comes with many pre-made UI elements and styles t
 
 Some of these components require Javascript to work, while others only require CSS classes applied to HTML elements. The Components section of the documentation explains these requirements on each component page and provides many code examples.  
 
-<img src="../Images/week3_10.png" width=500>
+<img src="../Images/week3_10.png" width=600>
 
 
 ## Conclusion
