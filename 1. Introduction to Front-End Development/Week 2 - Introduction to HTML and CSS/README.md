@@ -1,9 +1,9 @@
 # Table of Contents
 
-1. [Simple HTML Tages]()
-2. [Different types of selectors]()
-3. [Text and color in CSS]()
-4. [Alignment basics]()
+1. [Simple HTML Tages](https://github.com/Bhuribhat/Meta-Front-End-Developer/blob/main/1.%20Introduction%20to%20Front-End%20Development/Week%202%20-%20Introduction%20to%20HTML%20and%20CSS/1_HTML_tags.md)
+2. [Different types of selectors](https://github.com/Bhuribhat/Meta-Front-End-Developer/blob/main/1.%20Introduction%20to%20Front-End%20Development/Week%202%20-%20Introduction%20to%20HTML%20and%20CSS/2_Different_Types_of_Selectors.md)
+3. [Text and color in CSS](https://github.com/Bhuribhat/Meta-Front-End-Developer/blob/main/1.%20Introduction%20to%20Front-End%20Development/Week%202%20-%20Introduction%20to%20HTML%20and%20CSS/3_Text_and_Color_in_CSS.md)
+4. [Alignment basics](https://github.com/Bhuribhat/Meta-Front-End-Developer/blob/main/1.%20Introduction%20to%20Front-End%20Development/Week%202%20-%20Introduction%20to%20HTML%20and%20CSS/4_Alignment_Basics.md)
 
 
 # Additional Resources: Introduction to HTML and CSS
