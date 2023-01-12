@@ -13,9 +13,9 @@ This repository contains all assignments, demos, and cheat sheets from the 9 cou
 
 - Course 1: [Introduction to Front-End Development](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/1.%20Introduction%20to%20Front-End%20Development)
     * Week 1: [Get started with web development](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/1.%20Introduction%20to%20Front-End%20Development/Week%201%20-%20Getting%20started%20with%20web%20development)
-    * Week 2: [Introduction to HTML and CSS]()
-    * Week 3: [UI Frameworks]()
-    * Week 4: [End-of-Course Graded Assessment]()
+    * Week 2: [Introduction to HTML and CSS](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/1.%20Introduction%20to%20Front-End%20Development/Week%202%20-%20Introduction%20to%20HTML%20and%20CSS)
+    * Week 3: [UI Frameworks](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/1.%20Introduction%20to%20Front-End%20Development/Week%203%20-%20UI%20Frameworks)
+    * Week 4: [End-of-Course Graded Assessment](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/1.%20Introduction%20to%20Front-End%20Development/Week%204%20-%20End-of-Course%20Graded%20Assessment)
 
 - Course 2: [Programming with JavaScript]()
     * Week 1: [Introduction to Javascript]()
