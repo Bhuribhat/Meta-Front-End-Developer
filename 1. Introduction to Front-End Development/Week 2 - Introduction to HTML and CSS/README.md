@@ -407,7 +407,7 @@ This will select the element with the ID `blog` (the parent), then it will selec
 
 __Note__ that this will not go beyond a single depth level. Therefore, the CSS rule will __not__ be applied to the `h1` element containing the text `Today's Weather`.
 
-## :hover Pseudo-Class
+## hover Pseudo-Class
 
 A special keyword called a pseudo-class allows developers to select elements based on their state. Don't worry too much about what that means right now. For now, let's look at how the hover pseudo-class allows you to style an element when the mouse cursor hovers over the element.
 
