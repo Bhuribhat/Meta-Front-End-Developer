@@ -24,7 +24,7 @@ All of these points make investing time to learn Bootstrap a great way to boost 
 
 ## Using Bootstrap documentation
 
-![Bootstrap_Documentation]()
+[Bootstrap_Documentation](https://github.com/Bhuribhat/Meta-Front-End-Developer/blob/main/1.%20Introduction%20to%20Front-End%20Development/Week%203%20-%20UI%20Frameworks/Bootstrap_Documentation.md)
 
 
 # The Virtual DOM
