@@ -1,4 +1,4 @@
-[![Header](https://user-images.githubusercontent.com/25232528/181240892-6c2e30a1-379c-4e43-a593-6c2ece32dc33.png)](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+[![Header](https://www.tnnthailand.com/static/images/45316b68-22dc-4e19-874a-bc6aabc0cb17.jpeg)](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 
 
 ## 📄 About
@@ -8,22 +8,8 @@ The [Meta Front-End Developer Professional Certificate](https://www.coursera.org
 This repository contains all assignments, demos, and cheat sheets from the 9 courses in the "Meta Front-End Developer Professional Certificate" on Coursera.
 
 
-<!-- TODO add check mark -> :white_check_mark: -->
-## 📑 Courses
-
-- Introduction to Front-End Development
-- Programming with JavaScript
-- Version Control
-- HTML and CSS in depth
-- React Basics
-- Advanced React
-- Principles of UI/UX Design
-- Front-End Developer Capstone
-- Coding Interview Preparation
-
-
-<!-- TODO add hyperlink -->
-## Table of Content
+<!-- TODO add hyperlink and :white_check_mark: -->
+## 📑 Table of Content
 
 - Course 1: [Introduction to Front-End Development]()
     * Week 1: [Get started with web development]()
@@ -54,6 +40,13 @@ This repository contains all assignments, demos, and cheat sheets from the 9 cou
     * Week 2: [Data and State]()
     * Week 3: [Navigation, Updating and Assets in React.js]()
     * Week 4: [Your first React app]()
+
+<!-- 
+- Course 6: [Advanced React]()
+- Course 7: [Principles of UI/UX Design]()
+- Course 8: [Front-End Developer Capstone]()
+- Course 9: [Coding Interview Preparation]() 
+-->
 
 
 <!-- ## 🏆 Certificates 

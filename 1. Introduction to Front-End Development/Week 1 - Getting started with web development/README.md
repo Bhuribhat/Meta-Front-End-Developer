@@ -158,7 +158,7 @@ Following the HTTP response headers is the HTTP response body. This is the main 
 
 This can contain images, video, HTML documents and other media types.
 
-```
+```html
 HTTP/1.1 200 OK​
 Date: Fri, 11 Feb 2022 15:00:00 GMT+2​
 Server: Apache/2.2.14 (Linux)​

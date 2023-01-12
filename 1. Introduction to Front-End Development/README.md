@@ -4,7 +4,7 @@
 
 <p align="center">
     <img src="https://cdn.worldvectorlogo.com/logos/meta-1.svg" title="Meta logo" 
-    alt="Meta logo" height="300"/>
+    alt="Meta logo" height="200"/>
 </p>
 
 <br>
