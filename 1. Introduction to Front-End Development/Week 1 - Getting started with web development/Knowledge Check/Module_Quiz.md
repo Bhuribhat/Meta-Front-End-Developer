@@ -4,6 +4,8 @@
    - the Internet
    - a Network
    - a Server
+
+  
    ```
    Answer: a Network
    Explanation: When two computers connect directly to each other, this forms a network.  
@@ -12,6 +14,8 @@
 2. The programs that run on a computer are called the ______________.
    - Hardware
    - Software
+
+  
    ```
    Answer: Software
    Explanation: The programs and services that run on a computer are the software.
@@ -21,6 +25,8 @@
    - HTML
    - CSS
    - JavaScript
+
+  
    ```
    Answer: HTML
    Explanation: HTML defines the structure and content of a web page.
@@ -30,6 +36,8 @@
    - HTML
    - CSS
    - JavaScript
+
+  
    ```
    Answer: CSS
    Explanation: CSS defines how HTML elements are displayed on a web page.
@@ -40,6 +48,8 @@
    - Mail Protocol
    - Mobile Protocol
    - Internet Protocol
+
+  
    ```
    Answer: Internet Protocol
    Explanation: Internet Protocols version 4 and 6 are most commonly used for communication.
@@ -49,6 +59,8 @@
    - IP Packet
    - IP Mail
    - IP Container
+
+  
    ```
    Answer: IP Packet
    Explanation: IP packets contain the data being sent between computers.
@@ -59,6 +71,8 @@
    - SMTP
    - HTTP
    - IMAP
+
+  
    ```
    Answer: HTTP
    Explanation: HTTP is used to transfer HTML documents, images and files to the web browser.
@@ -67,6 +81,8 @@
 8. In software development, a framework provides a structure for developers to build an application.
    - True
    - False
+
+  
    ```
    Answer: True
    Explanation: Frameworks allow developers to build applications quicker by providing a structure to build with.
@@ -77,15 +93,19 @@
    - Integrated Development Environment
    - Web Browser
    - Development Book
+
+  
    ```
    Answer: Integrated Development Environment
    Explanation: You will use an Integrated Development Environment to effectively and efficiently write and maintain code.
    ```
 
 10. In software development, an API is a set of functions that an application component or service can provide.
-    - True
-    - False
-    ```
-    Answer: True
-    Explanation: As a developer you will interact with many APIs while developing applications.
-    ```
+   - True
+   - False
+
+  
+   ```
+   Answer: True
+   Explanation: As a developer you will interact with many APIs while developing applications.
+   ```

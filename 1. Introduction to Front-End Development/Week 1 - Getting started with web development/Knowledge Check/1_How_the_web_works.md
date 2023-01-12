@@ -3,6 +3,8 @@
 1. In the client/server model, your device is a ____________________.
    - Client
    - Server
+  
+
    ```
    Answer: Client
    Explanation: Your device is a client which connects to servers on the Internet.
@@ -12,6 +14,8 @@
    - Domain name
    - Client name
    - HTTP
+  
+
    ```
    Answer: Domain name
    Explanation: The domain name is the website address you use to navigate to a website.
@@ -21,6 +25,8 @@
    - DHCP Center
    - Data Center
    - DNS Server
+  
+
    ```
    Answer: Data Center
    Explanation: A data center is a building designed to host servers.
@@ -29,6 +35,8 @@
 4. The physical components of a server are called the ____________________.
    - Hardware
    - Software
+  
+
    ```
    Answer: Hardware
    Explanation: Hardware refers to the physical components.
@@ -38,6 +46,8 @@
    - Request content from a web browser and receive the response.
    - Receive web pages and display them in the web browser.
    - Receive requests from a web browser and to respond with the correct content for that request.
+  
+
    ```
    Answer: Receive requests from a web browser and to respond with the correct content for that request.
    Explanation: A web server receives and responds to requests from a web browser.
@@ -46,6 +56,8 @@
 6. True or False. A website can consist of multiple web pages linked together.
    - True
    - False
+
+  
    ```
    Answer: True
    Explanation: A website consists of several web pages linked together.
@@ -55,6 +67,8 @@
    - Hyperlinks
    - Data links
    - Server links
+
+  
    ```
    Answer: Hyperlinks
    Explanation: Hyperlinks are links or references to other HTML documents.
@@ -65,6 +79,8 @@
    - C#
    - JavaScript
    - CSS
+
+  
    ```
    Answer: HTML
            JavaScript
@@ -77,6 +93,8 @@
 9. When you run a website on the cloud, the website is restricted to one physical server.
    - True
    - False
+
+  
    ```
    Answer: False
    Explanation: The cloud allows you to run your website across multiple virtual and physical servers.

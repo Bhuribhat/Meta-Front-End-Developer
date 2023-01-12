@@ -7,6 +7,7 @@
    - Upload images to the web server
    - Inspect the performance and memory usage of a webpage.
 
+  
    ```
    Answer: Inspect the HTML elements of a web page.
            Check JavaScript error logs.
@@ -22,6 +23,7 @@
    - Reusable pieces of code that can be used by your application.
    - A structure for developers to build an application with.
 
+  
    ```
    Answer: Reusable pieces of code that can be used by your application.
    Explanation: Libraries help you to be more efficient while developing your application by providing you with reusable code.
@@ -30,6 +32,8 @@
 3. In software development, an API is _________________________.
    - a set of functions that an application component or service can provide.
    - a text editor to write code with.
+
+  
    ```
    Answer: a set of functions that an application component or service can provide.
    Explanation: As a developer you’ll use APIs to interact with application components and services.
@@ -42,6 +46,7 @@
    - Autodelete
    - IntelliSense
 
+  
    ```
    Answer: Syntax Highlighting
            Error Highlighting

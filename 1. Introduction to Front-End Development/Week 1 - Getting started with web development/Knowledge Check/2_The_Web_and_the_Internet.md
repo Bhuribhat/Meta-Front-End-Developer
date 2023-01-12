@@ -4,6 +4,8 @@
    - a Domain Name
    - a Web Server
    - an IP Address
+
+  
    ```
    Answer: an IP Address
    Explanation: The source and destination of an IP packet are specified using an IP address.
@@ -13,6 +15,8 @@
    - 192.0.2.235
    - example.com
    - 4527:0db8:0a00:1567:0200:ff00:0042:8329
+
+  
    ```
    Answer: 192.0.2.235
            4527:0db8:0a00:1567:0200:ff00:0042:8329
@@ -23,6 +27,8 @@
 3. When using TCP, data can arrive out of order.
    - True
    - False
+
+  
    ```
    Answer: False
    Explanation: TCP ensures data arrives without data loss and in order.
@@ -33,6 +39,8 @@
    - POST
    - SEND
    - DELETE
+
+  
    ```
    Answer: GET, POST, DELETE
    Explanation: GET is used to retrieve data from the server.
@@ -43,6 +51,8 @@
 5. HTML describes the structure and content of a web page.
    - True
    - False
+
+  
    ```
    Answer: True
    Explanation: HTML uses markup tags to describe the structure and content of a web page.
@@ -52,6 +62,8 @@
    - Internet Message Access Protocol (IMAP)
    - File Transfer Protocol (FTP)
    - Domain Name System Protocol (DNS)
+
+  
    ```
    Answer: Domain Name System Protocol (DNS)
    Explanation: The DNS protocol will return the IP address for a domain name.
@@ -60,6 +72,8 @@
 7. A web application is more ________________ compared to a website.
    - Informative
    - Interactive
+
+  
    ```
    Answer: Interactive
    Explanation: Web applications are interactive, for example, using a web app to find local restaurants.
