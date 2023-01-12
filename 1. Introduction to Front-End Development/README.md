@@ -20,7 +20,7 @@ In this module, you will learn about the different types of web developers and t
 <!-- TODO hyperlink -->
 ## Table of Content
 
-- Week 1: [Get started with web development]()
+- Week 1: [Get started with web development](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/1.%20Introduction%20to%20Front-End%20Development/Week%201%20-%20Getting%20started%20with%20web%20development)
 - Week 2: [Introduction to HTML and CSS]()
 - Week 3: [UI Frameworks]()
 - Week 4: [End-of-Course Graded Assessment]()
