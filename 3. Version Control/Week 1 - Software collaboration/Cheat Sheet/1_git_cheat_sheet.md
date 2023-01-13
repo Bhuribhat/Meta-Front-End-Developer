@@ -155,7 +155,7 @@ CAUTION! Changing history can have nasty side effects. If you need to change com
 
 ## GitHub Flow
 
-<img src="./images/img1.png" width=600>
+<img src="../../Images/img1.png" width=600>
 
 ## Glossary
 

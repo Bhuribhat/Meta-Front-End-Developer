@@ -24,11 +24,11 @@ This repository contains all assignments, demos, and cheat sheets from the 9 cou
     * Week 4: [Testing]()
     * Week 5: [End-of-Course Graded Assessment]()
 
-- Course 3: [Version Control]()
-    * Week 1: [Software collaboration]()
-    * Week 2: [Command Line]()
-    * Week 3: [Working with Git]()
-    * Week 4: [Graded Assessment]()
+- Course 3: [Version Control](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/3.%20Version%20Control)
+    * Week 1: [Software collaboration](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/3.%20Version%20Control/Week%201%20-%20Software%20collaboration)
+    * Week 2: [Command Line](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/3.%20Version%20Control/Week%202%20-%20Command%20Line)
+    * Week 3: [Working with Git](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/3.%20Version%20Control/Week%203%20-%20Working%20with%20Git)
+    * Week 4: [Graded Assessment](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/3.%20Version%20Control/Week%204%20-%20Graded%20Assessment)
 
 - Course 4: [HTML and CSS in depth]()
     * Week 1: [HTML in depth]()
