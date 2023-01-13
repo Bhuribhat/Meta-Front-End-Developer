@@ -11,7 +11,7 @@ This repository contains all assignments, demos, and cheat sheets from the 9 cou
 <!-- TODO add hyperlink and :white_check_mark: -->
 ## 📑 Table of Content
 
-- Course 1: [Introduction to Front-End Development](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/1.%20Introduction%20to%20Front-End%20Development)
+- :white_check_mark: Course 1: [Introduction to Front-End Development](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/1.%20Introduction%20to%20Front-End%20Development)
     * Week 1: [Get started with web development](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/1.%20Introduction%20to%20Front-End%20Development/Week%201%20-%20Getting%20started%20with%20web%20development)
     * Week 2: [Introduction to HTML and CSS](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/1.%20Introduction%20to%20Front-End%20Development/Week%202%20-%20Introduction%20to%20HTML%20and%20CSS)
     * Week 3: [UI Frameworks](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/1.%20Introduction%20to%20Front-End%20Development/Week%203%20-%20UI%20Frameworks)
@@ -24,7 +24,7 @@ This repository contains all assignments, demos, and cheat sheets from the 9 cou
     * Week 4: [Testing]()
     * Week 5: [End-of-Course Graded Assessment]()
 
-- Course 3: [Version Control](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/3.%20Version%20Control)
+- :white_check_mark: Course 3: [Version Control](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/3.%20Version%20Control)
     * Week 1: [Software collaboration](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/3.%20Version%20Control/Week%201%20-%20Software%20collaboration)
     * Week 2: [Command Line](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/3.%20Version%20Control/Week%202%20-%20Command%20Line)
     * Week 3: [Working with Git](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/3.%20Version%20Control/Week%203%20-%20Working%20with%20Git)
@@ -57,3 +57,4 @@ To verify the certificates, click the images to follow the links. -->
 
 - [ginny100 github](https://github.com/ginny100/Meta-Front-End-Developer)
 - [w3school tutorial](https://www.w3schools.com/howto/howto_blog_become_frontenddev.asp)
+- [open source](https://opensource.com/resources/what-is-git)
