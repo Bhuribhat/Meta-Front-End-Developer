@@ -55,5 +55,5 @@ To verify the certificates, click the images to follow the links. -->
 
 ## 📚 Reference
 
-- [ginny100](https://github.com/ginny100/Meta-Front-End-Developer)
-- [w3school](https://www.w3schools.com/howto/howto_blog_become_frontenddev.asp)
+- [ginny100 github](https://github.com/ginny100/Meta-Front-End-Developer)
+- [w3school tutorial](https://www.w3schools.com/howto/howto_blog_become_frontenddev.asp)
