@@ -35,4 +35,4 @@ To run javaScript
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href=""><img src="./Images/Certificate.png" height="400"></a>
+  <a href="https://coursera.org/share/8823d6d1b27cdf6c7f46cac670156e27"><img src="./Images/Certificate.png" height="400"></a>

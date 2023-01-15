@@ -29,4 +29,4 @@ In this module, you will learn about the different types of web developers and t
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href=""><img src="./Images/Certificate.png" height="400"></a>
+  <a href="https://coursera.org/share/fb4426a7c918b968b881d474eb2635c7"><img src="./Images/Certificate.png" height="400"></a>

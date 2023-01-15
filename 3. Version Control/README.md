@@ -29,4 +29,4 @@ In this module, you will learn about how modern software developers collaborate 
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href=""><img src="./Images/Certificate.png" height="400"></a>
+  <a href="https://coursera.org/share/497d90ace656d8fc5318330d3ea6d3b4"><img src="./Images/Certificate.png" height="400"></a>
