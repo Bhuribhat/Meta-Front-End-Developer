@@ -18,7 +18,7 @@ window.addEventListener('load', () => {
 		task_content_element.classList.add('content');
 
 		task_element.appendChild(task_content_element);
-		
+
 		// text input for edit button handle
 		const task_input_element = document.createElement('input');
 		task_input_element.classList.add('text');
@@ -31,7 +31,7 @@ window.addEventListener('load', () => {
 		// contain both edit and delete button
 		const task_actions_element = document.createElement('div');
 		task_actions_element.classList.add('actions');
-		
+
 		// create edit button
 		const task_edit_element = document.createElement('button');
 		task_edit_element.classList.add('edit');
@@ -47,11 +47,11 @@ window.addEventListener('load', () => {
 		task_actions_element.appendChild(task_delete_element);
 
 		task_element.appendChild(task_actions_element);
-		
+
 		// add new task and clear input
 		list_element.appendChild(task_element);
 		input.value = '';
-		
+
 		// edit & save click handle (read only when not edit)
 		task_edit_element.addEventListener('click', (e) => {
 			if (task_edit_element.innerText.toLowerCase() == "edit") {
@@ -63,7 +63,7 @@ window.addEventListener('load', () => {
 				task_input_element.setAttribute("readonly", "readonly");
 			}
 		});
-		
+
 		// delete click handle
 		task_delete_element.addEventListener('click', (e) => {
 			list_element.removeChild(task_element);
