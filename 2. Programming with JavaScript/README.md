@@ -18,7 +18,7 @@ In this module, you are introduced to JavaScript. You'll learn why JavaScript is
 
 To run javaScript
 
-```js
+```bash
 >> node fileName.js
 ```
 
