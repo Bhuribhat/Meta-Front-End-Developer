@@ -1,5 +1,5 @@
 for (var i = 1; i <= 10; i++) {
-    switch(i) {
+    switch (i) {
         case 1:
             console.log("Gold medal");
             break;

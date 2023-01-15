@@ -1,5 +1,7 @@
 // Task 1
-var dairy = ['cheese', 'sour cream', 'milk', 'yogurt', 'ice cream', 'milkshake'];
+var dairy = [
+    'cheese', 'sour cream', 'milk', 'yogurt', 'ice cream', 'milkshake'
+];
 
 function logDairy() {
     for (var product of dairy) {

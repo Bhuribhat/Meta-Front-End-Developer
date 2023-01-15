@@ -1,6 +1,6 @@
 // "Days of the week" program
 var day = "Sunday";
-switch(day) {
+switch (day) {
     case 'Monday':
         console.log('Go to work then go home and study');
         break;

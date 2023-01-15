@@ -17,12 +17,12 @@ This repository contains all assignments, demos, and cheat sheets from the 9 cou
     * Week 3: [UI Frameworks](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/1.%20Introduction%20to%20Front-End%20Development/Week%203%20-%20UI%20Frameworks)
     * Week 4: [End-of-Course Graded Assessment](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/1.%20Introduction%20to%20Front-End%20Development/Week%204%20-%20End-of-Course%20Graded%20Assessment)
 
-- Course 2: [Programming with JavaScript]()
-    * Week 1: [Introduction to Javascript]()
-    * Week 2: [The Building Blocks of a Program]()
-    * Week 3: [Programming Paradigms]()
-    * Week 4: [Testing]()
-    * Week 5: [End-of-Course Graded Assessment]()
+- :white_check_mark: Course 2: [Programming with JavaScript](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/2.%20Programming%20with%20JavaScript)
+    * Week 1: [Introduction to Javascript](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/2.%20Programming%20with%20JavaScript/Week%201%20-%20Introduction%20to%20Javascript)
+    * Week 2: [The Building Blocks of a Program](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/2.%20Programming%20with%20JavaScript/Week%202%20-%20The%20Building%20Blocks%20of%20a%20Program)
+    * Week 3: [Programming Paradigms](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/2.%20Programming%20with%20JavaScript/Week%203%20-%20Programming%20Paradigms)
+    * Week 4: [Testing](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/2.%20Programming%20with%20JavaScript/Week%204%20-%20Testing)
+    * Week 5: [End-of-Course Graded Assessment](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/2.%20Programming%20with%20JavaScript/Week%205%20-%20End-of-Course%20Graded%20Assessment)
 
 - :white_check_mark: Course 3: [Version Control](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/3.%20Version%20Control)
     * Week 1: [Software collaboration](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/3.%20Version%20Control/Week%201%20-%20Software%20collaboration)
@@ -39,7 +39,7 @@ This repository contains all assignments, demos, and cheat sheets from the 9 cou
     * Week 1: [React Components]()
     * Week 2: [Data and State]()
     * Week 3: [Navigation, Updating and Assets in React.js]()
-    * Week 4: [Your first React app]()
+    * Week 4: [Your first React App]()
 
 <!-- 
 - Course 6: [Advanced React]()
@@ -55,6 +55,6 @@ To verify the certificates, click the images to follow the links. -->
 
 ## 📚 Reference
 
-- [ginny100 github](https://github.com/ginny100/Meta-Front-End-Developer)
+- [frontend tutorial](https://github.com/ginny100/Meta-Front-End-Developer)
+- [github opensource](https://opensource.com/resources/what-is-git)
 - [w3school tutorial](https://www.w3schools.com/howto/howto_blog_become_frontenddev.asp)
-- [open source](https://opensource.com/resources/what-is-git)

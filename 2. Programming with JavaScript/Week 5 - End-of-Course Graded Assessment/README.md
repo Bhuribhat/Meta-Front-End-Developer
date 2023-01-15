@@ -95,8 +95,8 @@
    - undefined
    - 7
    ```
-   Answer: 
-   Explanation: 
+   Answer: undefined
+   Explanation: The variable result is declared but not assigned a value before it is logged to the console.
    ```
 
 7. What's missing from this JavaScript function declaration?
@@ -285,8 +285,8 @@
     - true
     - 23
     ```
-    Answer: 
-    Explanation: 
+    Answer: 23
+    Explanation: The variable result is declared ans assigned to 23.
     ```
 
 22. What is the data type of the x variable in the following code?
