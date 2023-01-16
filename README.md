@@ -30,10 +30,10 @@ This repository contains all assignments, demos, and cheat sheets from the 9 cou
     * Week 3: [Working with Git](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/3.%20Version%20Control/Week%203%20-%20Working%20with%20Git)
     * Week 4: [Graded Assessment](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/3.%20Version%20Control/Week%204%20-%20Graded%20Assessment)
 
-- Course 4: [HTML and CSS in depth]()
-    * Week 1: [HTML in depth]()
-    * Week 2: [Interactive CSS]()
-    * Week 3: [Graded Assessment]()
+- :white_check_mark: Course 4: [HTML and CSS in depth](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/4.%20HTML%20and%20CSS%20in%20depth)
+    * Week 1: [HTML in depth](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/4.%20HTML%20and%20CSS%20in%20depth/Week%201%20-%20HTML%20in%20depth)
+    * Week 2: [Interactive CSS](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/4.%20HTML%20and%20CSS%20in%20depth/Week%202%20-%20Interactive%20CSS)
+    * Week 3: [Graded Assessment](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/4.%20HTML%20and%20CSS%20in%20depth/Week%203%20-%20Graded%20Assessment)
 
 - Course 5: [React Basics]()
     * Week 1: [React Components]()
