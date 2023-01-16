@@ -49,6 +49,15 @@ This repository contains all assignments, demos, and cheat sheets from the 9 cou
 -->
 
 
+<!-- TODO add project  -->
+## 📂 Projects
+- [TODO List with JavaScript](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/2.%20Programming%20with%20JavaScript/Week%205%20-%20End-of-Course%20Graded%20Assessment/Todo%20List)
+- [Retail Lucky Shrub]()
+- [Professional Services Hair Day]()
+- [Restaurant Little Lemon]()
+- [Luxury Jewelry Mangata and Gallo]()
+
+
 <!-- ## 🏆 Certificates 
 To verify the certificates, click the images to follow the links. -->
 
