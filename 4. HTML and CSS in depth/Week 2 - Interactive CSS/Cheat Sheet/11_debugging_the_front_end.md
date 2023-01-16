@@ -40,25 +40,25 @@ Inside the Elements tab, on the right-hand side, you will find several options s
 
 You can select a specific element much more easily with the help of the ‘Element selection’ icon inside the dev tools. It enables the selection of specific elements on your web page. You can also access this option by hovering over a specific element on your page that will display its properties to you. 
 
-<img src="./images/img19.png" width="150">
+<img src="../../Images/images_week2/img19.png" width="150">
 
-<img src="./images/img20.png" width="100">
+<img src="../../Images/images_week2/img20.png" width="100">
 
 On selecting the desired element, one way to use the Elements tab for debugging is by right-clicking on that element, scrolling to ‘Copy’ and then selecting an option from the drop-down list that appears. 
 
-<img src="./images/img21.png" width="500">
+<img src="../../Images/images_week2/img21.png" width="500">
 
 This way, you can explore the isolated code to find the problem. 
 
 Additionally, you can add the Breakpoint option that is more useful for interactive pages by selecting the ‘Break on’ option and selecting an option from the dropdown list that appears.
 
-<img src="./images/img22.png" width="500">
+<img src="../../Images/images_week2/img22.png" width="500">
 
 Nowadays, some browsers are providing options such as Cumulative Layout Shift (CLS) that helps determine the overall efficiency of a web page. 
 
 You can also bring up the element families by clicking on the horizontal bar: 
 
-<img src="./images/img23.png" width="500">
+<img src="../../Images/images_week2/img23.png" width="500">
 
 One very useful feature is the ability to make changes in your code directly inside the browser. First, use the ‘element selector’ mentioned above to select some elements and then look for the ‘+’ icon inside the dev tools. You can directly start adding relevant rules for that particular element which will immediately display changes on your web page. The changes you make can also be tracked from the ‘Changes’ tab. The live interactive nature of this feature greatly improves the experience of debugging. 
 

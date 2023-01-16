@@ -1,3 +1,3 @@
 # Social Media Card Demo
 
-<img src="./index.png" width=500>
+<img src="./index.png" width=150>

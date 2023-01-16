@@ -4,7 +4,7 @@ Much like the div and box container that you can create using HTML, flexbox is a
 
 Flexbox is single-dimensional, which means you can align it either along a row or a column and it is set to row alignment by default. There are two axes, the main and cross-axis, much like the x and y-axis used in coordinate geometry. When aligned along the row, the horizontal axis is called the main axis and the vertical axis is called the cross axis. For the items present inside the flexbox container, the placement starts from the top-left corner moving along the main or horizontal axis. When the row is filled, the items continue to the next row. Note that with the help of a property called flex-direction, you can instead flip the main axis to run vertically and the cross axis will then be horizontal. In such a case, the items will start from top left and move down along the vertical main axis. The properties you choose will help better control alignment, spacing, direction and eventually styling of the container and items present inside it. 
 
-<img src="./images/img1.png" width="550">
+<img src="../../Images/images_week2/img1.png" width="550">
 
 Image source: https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-basics-and-terminology
 
@@ -41,7 +41,7 @@ Original CSS file:
 
 Output:
 
-<img src="./images/img2.png" width="550">
+<img src="../../Images/images_week2/img2.png" width="550">
 
 There are seven div containers inside the HTML file.
 
@@ -59,7 +59,7 @@ __display: flex;__
 
 The output is now seven flex containers that run from left to right starting in the top left corner.
 
-<img src="./images/img3.png" width="550">
+<img src="../../Images/images_week2/img3.png" width="550">
 
 ## Alignment properties
 
@@ -90,7 +90,7 @@ CSS:
 
 Output:
 
-<img src="./images/img4.png" width="550">
+<img src="../../Images/images_week2/img4.png" width="550">
 
 __flex-wrap:__
 
@@ -106,7 +106,7 @@ The default for this property is ‘nowrap’ which means the items will span th
 
 Output:
 
-<img src="./images/img5.png" width="550">
+<img src="../../Images/images_week2/img5.png" width="550">
 
 The items will now be wrapped to the size of the available viewport. 
 
@@ -127,7 +127,7 @@ CSS Code:
 
 Output:
 
-<img src="./images/img6.png" width="550">
+<img src="../../Images/images_week2/img6.png" width="550">
 
 The output looks like the original output; however, it is now actually a flex.
 
@@ -151,7 +151,7 @@ CSS Code:
 
 Output:
 
-<img src="./images/img7.png" width="550">
+<img src="../../Images/images_week2/img7.png" width="550">
 
 The term ‘end’ refers to the right side of the page as the left side is seen as the beginning. 
 
@@ -175,7 +175,7 @@ This property can be used on individual items inside the flex.
 
 Output:
 
-<img src="./images/img8.png" width="550">
+<img src="../../Images/images_week2/img8.png" width="550">
 
 Here the color and alignment of the third box have been changed and it overrides the properties set using align-items.     
 
@@ -202,7 +202,7 @@ CSS Code:
 
 Output:
 
-<img src="./images/img9.png" width="550">
+<img src="../../Images/images_week2/img9.png" width="550">
 
 There is a clear change in spacing between the items. 
 
@@ -224,7 +224,7 @@ To demonstrate the effect of this, the code has to be modified slightly by remov
 
 Output:
 
-<img src="./images/img10.png" width="550">
+<img src="../../Images/images_week2/img10.png" width="550">
 
 The rest of the remaining code is unchanged. However, the output will change if the code is modified with the addition of the flex property inside the flex item box3 class. 
 
@@ -240,7 +240,7 @@ CSS Code:
 
 Output:
 
-<img src="./images/img11.png" width="550">
+<img src="../../Images/images_week2/img11.png" width="550">
 
 The third box now takes up the entire free space available because flex-growth’s value has been set to 1. So if we have `flex-grow` set to 1, the children will all set to equal size. And if one of the children has a value of 1.5, that child would take up more space as compared to the others.
 

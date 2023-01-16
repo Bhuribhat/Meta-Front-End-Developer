@@ -91,7 +91,7 @@ body{
 
 And this is the output:
 
-<img src="./gifs/gif1.gif" width="500">
+<img src="../../Images/gifs/gif1.gif" width="500">
 
 In the example, the width of the object changes from 50 pixels to 100 pixels over a span of 3 seconds and loops infinitely afterward. 
 
@@ -128,6 +128,6 @@ Now, let’s add an intermediary step at 50%.
 
 Output:
 
-<img src="./gifs/gif2.gif" width="500">
+<img src="../../Images/gifs/gif2.gif" width="500">
 
 The output is drastically different now after adding just two lines of code. Just like this, you can keep adding steps inside your @keyframes rule to make it even more dynamic and add the desired animation effects. Animation property and @keyframes rule can be used in very creative ways to enhance a web page.

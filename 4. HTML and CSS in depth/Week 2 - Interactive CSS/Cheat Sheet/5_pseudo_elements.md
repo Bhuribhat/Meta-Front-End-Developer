@@ -45,7 +45,7 @@ li::first-letter {
 
 Output
 
-<img src="./images/img12.png" width="550">
+<img src="../../Images/images_week2/img12.png" width="550">
 
 Although the code only changed the first letter of each bullet point, it makes a big difference in terms of presentation. Now let’s change the font in a different way. 
 
@@ -68,7 +68,7 @@ li::first-line {
 
 Output:
 
-<img src="./images/img13.png" width="550">
+<img src="../../Images/images_week2/img13.png" width="550">
 
 Because it’s only the first line of each bullet point, it almost functions like dividers between the three different points instead of having to rely on bullets.  
 
@@ -76,7 +76,7 @@ Note that the contents of the line to which this pseudo-element is applied will 
 
 Output:
 
-<img src="./images/img14.png" width="550">
+<img src="../../Images/images_week2/img14.png" width="550">
 
 ## ::selection
 
@@ -99,13 +99,13 @@ Here is an example of a selection of text.
 
 Output:
 
-<img src="./images/img15.png" width="550">
+<img src="../../Images/images_week2/img15.png" width="550">
 
 And another example of the same text but with a different section selected and highlighted.
 
 Output:
 
-<img src="./images/img16.png" width="550">
+<img src="../../Images/images_week2/img16.png" width="550">
 
 Different segments of the text are highlighted depending on the text that is selected at any given point.    
 
@@ -124,7 +124,7 @@ li::marker {
 
 Output
 
-<img src="./images/img17.png" width="550">
+<img src="../../Images/images_week2/img17.png" width="550">
 
 Now the bullet points are cornflower blue and they have the shape specified in the code.
 
@@ -163,7 +163,7 @@ CSS code:
 
 Output:
 
-<img src="./images/img18.png" width="550">
+<img src="../../Images/images_week2/img18.png" width="550">
 
 The “content” property is where the text for the guidelines goes. The word “tip” has been added before each guideline thanks to the rules added for __tips::before__. And, each of the three guidelines now has two exclamation marks after them thanks to the rules added for __tips::after__. Note how the second `<p>` element inside the HTML code remains unaffected. You don’t have to use after and before together like this, but sometimes it is useful to combine them.
 
