@@ -18,7 +18,6 @@ In this course, you’ll use software development tools like HTML to build attra
 
 You will then dive deeper into CSS by applying increasingly specific styling to various elements. You’ll learn to use Bootstrap’s grid system to create layouts and work with components and themes. Finally, you’ll explore debugging and learn how it can be utilized to banish common front-end errors.
 
-<!-- TODO href -->
 ## Table of Content
 
 - Week 1: [HTML in depth](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/4.%20HTML%20and%20CSS%20in%20depth/Week%201%20-%20HTML%20in%20depth)

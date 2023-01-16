@@ -28,12 +28,12 @@ This repository contains all assignments, demos, and cheat sheets from the 9 cou
     * Week 1: [Software collaboration](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/3.%20Version%20Control/Week%201%20-%20Software%20collaboration)
     * Week 2: [Command Line](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/3.%20Version%20Control/Week%202%20-%20Command%20Line)
     * Week 3: [Working with Git](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/3.%20Version%20Control/Week%203%20-%20Working%20with%20Git)
-    * Week 4: [Graded Assessment](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/3.%20Version%20Control/Week%204%20-%20Graded%20Assessment)
+    * Week 4: [End-of-Course Graded Assessment](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/3.%20Version%20Control/Week%204%20-%20Graded%20Assessment)
 
 - :white_check_mark: Course 4: [HTML and CSS in depth](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/4.%20HTML%20and%20CSS%20in%20depth)
     * Week 1: [HTML in depth](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/4.%20HTML%20and%20CSS%20in%20depth/Week%201%20-%20HTML%20in%20depth)
     * Week 2: [Interactive CSS](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/4.%20HTML%20and%20CSS%20in%20depth/Week%202%20-%20Interactive%20CSS)
-    * Week 3: [Graded Assessment](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/4.%20HTML%20and%20CSS%20in%20depth/Week%203%20-%20Graded%20Assessment)
+    * Week 3: [End-of-Course Graded Assessment](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/4.%20HTML%20and%20CSS%20in%20depth/Week%203%20-%20Graded%20Assessment)
 
 - Course 5: [React Basics]()
     * Week 1: [React Components]()
@@ -51,11 +51,12 @@ This repository contains all assignments, demos, and cheat sheets from the 9 cou
 
 <!-- TODO add project  -->
 ## 📂 Projects
-- [TODO List with JavaScript](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/2.%20Programming%20with%20JavaScript/Week%205%20-%20End-of-Course%20Graded%20Assessment/Todo%20List)
-- [Retail Lucky Shrub]()
-- [Professional Services Hair Day]()
-- [Restaurant Little Lemon]()
-- [Luxury Jewelry Mangata and Gallo]()
+
+- [Todo List with JavaScript](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/2.%20Programming%20with%20JavaScript/Week%205%20-%20End-of-Course%20Graded%20Assessment/Todo%20List)
+- [Retail Lucky Shrub](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/4.%20HTML%20and%20CSS%20in%20depth/Week%203%20-%20Graded%20Assessment/1%20retail%20lucky%20shrub)
+- [Professional Services Hair Day](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/4.%20HTML%20and%20CSS%20in%20depth/Week%203%20-%20Graded%20Assessment/2%20professional%20services%20hair%20day)
+- [Restaurant Little Lemon](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/4.%20HTML%20and%20CSS%20in%20depth/Week%203%20-%20Graded%20Assessment/3%20restaurant%20little%20lemon)
+- [Luxury Jewelry Mangata and Gallo](https://github.com/Bhuribhat/Meta-Front-End-Developer/tree/main/4.%20HTML%20and%20CSS%20in%20depth/Week%203%20-%20Graded%20Assessment/4%20luxury%20jewelry%20mangata%20and%20gallo)
 
 
 <!-- ## 🏆 Certificates 
@@ -64,6 +65,6 @@ To verify the certificates, click the images to follow the links. -->
 
 ## 📚 Reference
 
-- [frontend tutorial](https://github.com/ginny100/Meta-Front-End-Developer)
-- [github opensource](https://opensource.com/resources/what-is-git)
-- [w3school tutorial](https://www.w3schools.com/howto/howto_blog_become_frontenddev.asp)
+- <a href="https://opensource.com/resources/what-is-git" target="_blank">git opensource</a>
+- <a href="https://github.com/ginny100/Meta-Front-End-Developer" target="_blank">frontend tutorial</a>
+- <a href="https://www.w3schools.com/howto/howto_blog_become_frontenddev.asp" target="_blank">w3school tutorial</a>

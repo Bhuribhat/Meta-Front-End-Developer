@@ -20,7 +20,7 @@ It is used to create interactive controls, for example, buttons and various type
 
 Results in the following output:
 
-<img src="./images/img1.png" width=400>
+<img src="../../Images/images_week1/img1.png" width=400>
 
 Note how the type `password` hides the user input. 
 
@@ -122,7 +122,7 @@ Specifies a list of pre-defined options for an input element. It differs from `<
 </form>
 ```
 
-<img src="./images/img2.png" width=400>
+<img src="../../Images/images_week1/img2.png" width=400>
 
 ## `<output>`
 
@@ -142,7 +142,7 @@ Defines an option for the drop-down list. The following code example demonstrate
 </select> 
 ```
 
-<img src="./images/img3.png" width=400>
+<img src="../../Images/images_week1/img3.png" width=400>
 
 By default, the first item in the drop-down list is selected. To define a pre-selected option, add the selected attribute to the option. 
 
