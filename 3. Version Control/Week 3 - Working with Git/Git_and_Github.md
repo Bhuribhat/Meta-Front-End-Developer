@@ -49,3 +49,6 @@
    Answer: True
    Explanation: Forking is a common practice in open-source projects allowing for contributions from different developers.
    ```
+
+
+![git](../Images/git_cheat_sheet.jpg)
